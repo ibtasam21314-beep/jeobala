@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name_en": "1121 Basmati Rice",
+    "name_ur": "1121 باسمتی چاول",
+    "slug": "1121-basmati-rice",
+    "category": "AGRI",
+    "subcategory": "Rice",
+    "short_description": "Premium extra-long grain Basmati rice with exceptional aroma and elongation.",
+    "long_description": "1121 Basmati is the longest grain variety of Basmati rice, known for its exceptional length that can reach up to 8.4mm after cooking. This premium variety offers a distinctive aroma, fluffy texture, and non-sticky grains that make it ideal for biryanis, pilafs, and festive dishes. Available in White, Brown, Parboiled (Sella), and Steam variants.",
+    "variants": [
+      {"type": "White", "packing": ["1kg", "5kg", "10kg", "25kg", "50kg"]},
+      {"type": "Brown", "packing": ["1kg", "5kg", "10kg"]},
+      {"type": "Parboiled Sella", "packing": ["5kg", "10kg", "25kg", "50kg"]},
+      {"type": "Steam", "packing": ["5kg", "10kg", "25kg"]}
+    ],
+    "images": ["1121-basmati-white.jpg", "1121-basmati-brown.jpg", "1121-basmati-sella.jpg"],
+    "tags": ["basmati", "premium", "extra-long-grain", "aromatic", "export-quality"],
+    "seo_slug": "1121-basmati-rice-premium-export",
+    "price_example": "FOB $850-1200/MT"
+  },
+  {
+    "id": 2,
+    "name_en": "1509 Basmati Rice",
+    "name_ur": "1509 باسمتی چاول",
+    "slug": "1509-basmati-rice",
+    "category": "AGRI",
+    "subcategory": "Rice",
+    "short_description": "Long grain Basmati with excellent cooking properties and competitive pricing.",
+    "long_description": "1509 Basmati rice offers an excellent balance of quality and value. With grains reaching 7.5mm after cooking, this variety provides the authentic Basmati experience with a subtle aroma and fluffy texture. Ideal for everyday cooking and commercial food service applications.",
+    "variants": [
+      {"type": "White", "packing": ["5kg", "10kg", "25kg", "50kg"]},
+      {"type": "Brown", "packing": ["5kg", "10kg"]},
+      {"type": "Parboiled Sella", "packing": ["10kg", "25kg", "50kg"]},
+      {"type": "Steam", "packing": ["10kg", "25kg"]}
+    ],
+    "images": ["1509-basmati-white.jpg", "1509-basmati-sella.jpg"],
+    "tags": ["basmati", "long-grain", "value", "commercial"],
+    "seo_slug": "1509-basmati-rice-export",
+    "price_example": "FOB $750-950/MT"
+  },
+  {
+    "id": 3,
+    "name_en": "Super Basmati Rice",
+    "name_ur": "سپر باسمتی چاول",
+    "slug": "super-basmati-rice",
+    "category": "AGRI",
+    "subcategory": "Rice",
+    "short_description": "Traditional Pakistani Basmati variety with intense aroma and delicate texture.",
+    "long_description": "Super Basmati is the traditional Pakistani Basmati variety, celebrated for its intense aroma and delicate, slender grains. This heritage variety has been cultivated in the foothills of the Himalayas for generations, offering an authentic taste that rice connoisseurs prefer.",
+    "variants": [
+      {"type": "White", "packing": ["1kg", "5kg", "10kg", "25kg"]},
+      {"type": "Brown", "packing": ["5kg", "10kg"]},
+      {"type": "Parboiled Sella", "packing": ["10kg", "25kg"]},
+      {"type": "Steam", "packing": ["10kg", "25kg"]}
+    ],
+    "images": ["super-basmati-white.jpg", "super-basmati-grain.jpg"],
+    "tags": ["basmati", "traditional", "aromatic", "heritage"],
+    "seo_slug": "super-basmati-rice-pakistan",
+    "price_example": "FOB $800-1000/MT"
+  },
+  {
+    "id": 4,
+    "name_en": "IRRI-6 Rice",
+    "name_ur": "IRRI-6 چاول",
+    "slug": "irri-6-rice",
+    "category": "AGRI",
+    "subcategory": "Rice",
+    "short_description": "Versatile non-Basmati rice ideal for commercial and food processing applications.",
+    "long_description": "IRRI-6 is a high-yield, versatile non-Basmati variety widely used in commercial food processing, hospitality, and retail markets. Known for its consistent quality and competitive pricing, IRRI-6 is available in White and Parboiled variants suitable for diverse culinary applications.",
+    "variants": [
+      {"type": "White", "packing": ["25kg", "50kg"]},
+      {"type": "Parboiled", "packing": ["25kg", "50kg"]}
+    ],
+    "images": ["irri6-white.jpg", "irri6-parboiled.jpg"],
+    "tags": ["non-basmati", "commercial", "food-processing", "bulk"],
+    "seo_slug": "irri6-non-basmati-rice",
+    "price_example": "FOB $450-550/MT"
+  },
+  {
+    "id": 5,
+    "name_en": "Black Cumin Seeds",
+    "name_ur": "کالا زیرہ",
+    "slug": "black-cumin-seeds",
+    "category": "AGRI",
+    "subcategory": "Whole Spices",
+    "short_description": "Premium Nigella seeds with intense flavor and traditional medicinal properties.",
+    "long_description": "Our Black Cumin (Nigella Sativa) seeds are sourced from select farms known for producing the highest quality seeds with intense, slightly bitter flavor and aromatic properties. Used extensively in Middle Eastern, South Asian, and Mediterranean cuisines, these seeds are also valued for their traditional health benefits.",
+    "variants": [
+      {"type": "Whole Seeds", "packing": ["100g", "250g", "500g", "1kg", "5kg", "25kg"]}
+    ],
+    "images": ["black-cumin-seeds.jpg", "black-cumin-closeup.jpg"],
+    "tags": ["spices", "whole", "nigella", "kalonji", "medicinal"],
+    "seo_slug": "black-cumin-nigella-seeds",
+    "price_example": "FOB $2800-3500/MT"
+  },
+  {
+    "id": 6,
+    "name_en": "Turmeric Powder",
+    "name_ur": "ہلدی پاؤڈر",
+    "slug": "turmeric-powder",
+    "category": "AGRI",
+    "subcategory": "Ground Spices",
+    "short_description": "High-curcumin turmeric powder with vibrant color and earthy flavor.",
+    "long_description": "Our premium turmeric powder is ground from select Alleppey and Salem varieties, known for their high curcumin content (3-5%). The vibrant golden-yellow color and earthy, slightly bitter flavor make it essential for curries, rice dishes, and health beverages. Tested for purity and free from artificial colors.",
+    "variants": [
+      {"type": "Standard (3% Curcumin)", "packing": ["100g", "250g", "500g", "1kg", "5kg"]},
+      {"type": "High Curcumin (5%+)", "packing": ["100g", "250g", "500g", "1kg"]}
+    ],
+    "images": ["turmeric-powder.jpg", "turmeric-roots.jpg"],
+    "tags": ["spices", "ground", "turmeric", "curcumin", "health"],
+    "seo_slug": "turmeric-powder-high-curcumin",
+    "price_example": "FOB $1800-2500/MT"
+  },
+  {
+    "id": 7,
+    "name_en": "Himalayan Pink Salt",
+    "name_ur": "ہمالیائی گلابی نمک",
+    "slug": "himalayan-pink-salt",
+    "category": "AGRI",
+    "subcategory": "Ground Spices",
+    "short_description": "Pure Himalayan rock salt with natural minerals and distinctive pink hue.",
+    "long_description": "Mined from ancient sea salt deposits in the Himalayan foothills, our pink salt contains 84 trace minerals that give it the distinctive rose color and complex flavor profile. Available in various grain sizes from fine table salt to coarse cooking crystals and decorative salt blocks.",
+    "variants": [
+      {"type": "Fine", "packing": ["250g", "500g", "1kg", "5kg"]},
+      {"type": "Coarse", "packing": ["500g", "1kg", "5kg"]},
+      {"type": "Blocks", "packing": ["2kg", "5kg"]}
+    ],
+    "images": ["himalayan-salt-fine.jpg", "himalayan-salt-coarse.jpg", "himalayan-salt-block.jpg"],
+    "tags": ["salt", "himalayan", "natural", "minerals", "gourmet"],
+    "seo_slug": "himalayan-pink-salt-natural",
+    "price_example": "FOB $180-350/MT"
+  },
+  {
+    "id": 8,
+    "name_en": "Premium Bed Sheet Set",
+    "name_ur": "پریمیم بیڈ شیٹ سیٹ",
+    "slug": "premium-bed-sheet-set",
+    "category": "TEXTILE",
+    "subcategory": "Bedding & Bed Linen",
+    "short_description": "300 thread count cotton sateen bed sheets with elegant finish.",
+    "long_description": "Our premium bed sheet sets are crafted from 100% long-staple cotton with a 300 thread count sateen weave. The silky-smooth finish provides exceptional comfort while maintaining durability through repeated washing. Available in solid colors and contemporary patterns with deep pocket fitted sheets.",
+    "variants": [
+      {"type": "Single", "packing": ["1 Flat + 1 Fitted + 1 Pillow Cover"]},
+      {"type": "Double", "packing": ["1 Flat + 1 Fitted + 2 Pillow Covers"]},
+      {"type": "King", "packing": ["1 Flat + 1 Fitted + 2 Pillow Covers"]}
+    ],
+    "images": ["bed-sheet-white.jpg", "bed-sheet-grey.jpg", "bed-sheet-pattern.jpg"],
+    "tags": ["bedding", "cotton", "sateen", "premium", "hotel-quality"],
+    "seo_slug": "premium-cotton-bed-sheet-set",
+    "price_example": "FOB $12-28/set"
+  },
+  {
+    "id": 9,
+    "name_en": "Terry Bath Towels",
+    "name_ur": "ٹیری باث تولیے",
+    "slug": "terry-bath-towels",
+    "category": "TEXTILE",
+    "subcategory": "Bath & Towels",
+    "short_description": "500 GSM ring-spun cotton terry towels with superior absorbency.",
+    "long_description": "Our terry bath towels are woven from 100% ring-spun cotton at 500 GSM weight, providing the perfect balance of absorbency and quick-drying properties. Double-stitched hems ensure durability for hotel and institutional use. Available in white and a range of solid colors.",
+    "variants": [
+      {"type": "Bath Towel 70x140cm", "packing": ["Single", "Pack of 6", "Pack of 12"]},
+      {"type": "Hand Towel 40x70cm", "packing": ["Single", "Pack of 6", "Pack of 12"]},
+      {"type": "Face Towel 30x30cm", "packing": ["Pack of 6", "Pack of 12"]}
+    ],
+    "images": ["terry-towel-white.jpg", "terry-towel-stack.jpg", "terry-towel-colors.jpg"],
+    "tags": ["towels", "terry", "cotton", "hotel", "absorbent"],
+    "seo_slug": "terry-cotton-bath-towels",
+    "price_example": "FOB $3.50-8.00/piece"
+  },
+  {
+    "id": 10,
+    "name_en": "Cotton Tote Bags",
+    "name_ur": "کاٹن ٹوٹ بیگ",
+    "slug": "cotton-tote-bags",
+    "category": "TEXTILE",
+    "subcategory": "Bags & Storage",
+    "short_description": "Eco-friendly cotton canvas bags for retail and promotional use.",
+    "long_description": "Our cotton tote bags are made from 8oz to 12oz natural cotton canvas, offering a sustainable alternative to plastic bags. Ideal for retail packaging, promotional giveaways, and everyday shopping. Available in natural, bleached white, and custom dyed colors with optional printing.",
+    "variants": [
+      {"type": "Standard 38x42cm", "packing": ["Pack of 50", "Pack of 100", "Pack of 500"]},
+      {"type": "Large 45x50cm", "packing": ["Pack of 50", "Pack of 100"]},
+      {"type": "Wine Bag 2-Bottle", "packing": ["Pack of 50", "Pack of 100"]}
+    ],
+    "images": ["cotton-tote-natural.jpg", "cotton-tote-printed.jpg"],
+    "tags": ["bags", "cotton", "eco-friendly", "promotional", "retail"],
+    "seo_slug": "cotton-canvas-tote-bags",
+    "price_example": "FOB $0.80-2.50/piece"
+  }
+]

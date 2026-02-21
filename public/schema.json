@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "JEOBALA",
+  "url": "https://pdsltd.com/",
+  "logo": "https://jeobala.com/images/logo.png",
+  "description": "Leading exporter of premium Basmati rice, authentic spices, and quality textiles. Global trade partner for agri and textile commodities.",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "info@yourdomain.com",
+    "contactType": "sales",
+    "availableLanguage": ["English", "Urdu"]
+  },
+  "founder": {
+    "@type": "Person",
+    "jobTitle": "Founder & CEO",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "JEOBALA"
+    },
+    "description": "Experienced Exporter & Importer | EXIM Mentor | Export-Import Consultant & Trainer | Indenter & EXIM Agent | Entrepreneur."
+  },
+  "sameAs": [],
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "PK"
+  },
+  "areaServed": "Worldwide",
+  "knowsAbout": [
+    "Basmati Rice Export",
+    "Non-Basmati Rice",
+    "Spices Export",
+    "Textile Export",
+    "Bed Linen",
+    "Terry Towels",
+    "International Trade"
+  ]
+}
