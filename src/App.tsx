@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import ScrollToTop from './components/ScrollToTop';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -35,6 +36,7 @@ function App() {
         </main>
         <Footer />
       </div>
+      <SpeedInsights />
     </BrowserRouter>
   );
 }
